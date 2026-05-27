@@ -15,6 +15,8 @@ Author context: Macheng Shen is evaluating Eazo as a power user and agent-builde
 - App Store positioning: "Discover agents built by creators. Make them your own - or build the next one."
 - App Store pricing surface observed on 2026-05-28: listed as free. If a paid, pro, or priority plan exists elsewhere, we would like to learn about it.
 - Public source checked: https://apps.apple.com/us/app/eazo/id6758009137
+- Official website checked: https://eazo.ai describes Eazo as a community of AI apps and agents and links to Discord.
+- Eazo Agent Kit checked: https://eak.eazo.ai describes managed identity, memory, web action, email, and audit trails for production agents, currently in private build / waitlist.
 
 ## What This Repo Contains
 
