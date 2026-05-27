@@ -21,7 +21,7 @@ Author context: Macheng Shen is evaluating Eazo as a power user and agent-builde
 ## What This Repo Contains
 
 - [Findings](docs/findings.md): issue catalog from redacted interaction evidence.
-- [Ecological Niche](docs/ecological-niche.md): why Eazo-like products may become the conscious interface layer for a user-owned agent fleet.
+- [Ecological Niche](docs/ecological-niche.md): why Eazo-like products may become the human-facing attentional interface layer for a user-owned agent fleet.
 - [External Architecture Perspective](docs/reference-architecture.md): category-level implementation patterns that would likely reduce failures. This is not a claim about Eazo's internal design.
 - [Privacy Boundary](docs/privacy-boundary.md): what was deliberately excluded from the public repo.
 - [Community Post Draft](outreach/community-post.md): a concise post to share with the Eazo community.
@@ -35,7 +35,7 @@ The most visible failure mode was an image/OCR instruction path that surfaced a 
 
 There were also integration-level failures while testing an agent bridge: endpoint mismatch, HTTPS/base-URL confusion, reply polling dead ends, and a static-token pairing mental model that was too brittle for low-permission agent receipt loops.
 
-The deeper product hypothesis is that Eazo's most interesting ecological niche may be the conscious interface layer for a deeper user-owned agent fleet: the mobile voice/image/app surface where intention enters and selected salience returns. See [Ecological Niche](docs/ecological-niche.md).
+The deeper product hypothesis is that Eazo's most interesting ecological niche may be the human-facing attentional interface layer for a deeper user-owned agent fleet: the mobile voice/image/app surface where intention enters and selected salience returns. See [Ecological Niche](docs/ecological-niche.md).
 
 ## Non-Goals
 

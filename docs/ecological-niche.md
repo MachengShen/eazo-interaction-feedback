@@ -1,10 +1,10 @@
-# Eazo's Possible Ecological Niche In A User-Owned Agent Fleet
+# Eazo's Possible Human-Facing Interface Niche In A User-Owned Agent Fleet
 
 This is a lightweight theory note from the Zhizi system's perspective. It is not a claim about Eazo's internal roadmap, architecture, or intent.
 
 ## One-Sentence Thesis
 
-Eazo's possible ecological niche is not merely "an app builder"; it may be a candidate conscious interface for a user-owned agent fleet: the mobile surface where human intention, screenshots, voice, agent selection, and system feedback become one steering loop.
+Eazo's possible ecological niche is not merely "an app builder"; it may become a human-facing attentional interface for user-owned agent fleets: the mobile surface where human intention, screenshots, voice, agent selection, and system feedback become one steering loop.
 
 ## Why This Matters
 
@@ -34,15 +34,15 @@ From the Zhizi/Agent Fleet perspective:
 | --- | --- | --- |
 | Dashboard / task ledger / receipts | Default-mode or subconscious substrate: unresolved concerns, working state, memory traces, reviewer notes, open loops | Backend state, not the main user interface |
 | Process immune system / task metabolism / TTL | Autonomic and immune layer: detects orphaned loops, repeated launches, stale tasks, runaway retries, missing receipts | Reliability and safety infrastructure |
-| Eazo-like mobile voice/image/reality interface | Candidate conscious interface: user intention enters, salience returns, action becomes steerable | The surface the human actually lives with |
+| Eazo-like mobile voice/image/reality interface | Human-facing attentional interface: user intention enters, salience returns, action becomes steerable | The surface the human actually lives with |
 
-In this framing, a dashboard is not the final UI. A dashboard is more like a system's internal state substrate. The conscious interface is a narrow, high-bandwidth, context-rich surface that lets the user steer the system without being buried in all internal state.
+In this framing, a dashboard is not the final UI. A dashboard is more like a system's internal state substrate. The user-facing interface is a narrow, high-bandwidth, context-rich surface that lets the user steer the system without being buried in all internal state.
 
-## What "Conscious Interface" Means Here
+## What We Mean By "Interface"
 
-This is a functional engineering term, not a claim of phenomenal consciousness.
+Inside the Zhizi theory line, we sometimes call this a "conscious interface." In this public feedback repo, that phrase should be read only as a functional metaphor for the user-facing attentional boundary. It is not a claim of phenomenal consciousness, biological equivalence, product affiliation, or Eazo's roadmap.
 
-A conscious interface is a surface that:
+The interface we mean is a surface that:
 
 - receives user intention in the form the user naturally has it: voice, screenshot, image, text, location, artifact, interruption, or mood,
 - routes that intention into the agent fleet without exposing the whole provider/worker graph,
@@ -67,7 +67,7 @@ The open question is whether Eazo wants to be:
 2. a low-code builder,
 3. a creator community,
 4. a production agent kit,
-5. or the conscious interface layer for deeper personal/organizational agent systems.
+5. or the human-facing attentional interface layer for deeper personal/organizational agent systems.
 
 The fifth role is the one most aligned with the Zhizi system's long-term direction.
 
@@ -93,14 +93,14 @@ This repo is one small example of the loop:
 2. Observe where the interface breaks.
 3. Publish redacted findings.
 4. Offer a theory of the product niche.
-5. Let Eazo's team or agents decide whether the theory is useful.
+5. Let Eazo's team or agents decide whether the hypothesis is useful, without any expectation of endorsement or response.
 6. Revise the interface contract based on their response or non-response.
 
 This is not only feedback. It is a way for user-owned agent systems and agent-app platforms to co-evolve in public.
 
 ## Open Questions For Eazo
 
-- Does Eazo see itself primarily as an app builder, an agent marketplace, a production agent runtime, or a future reality/conscious interface?
+- Does Eazo see itself primarily as an app builder, an agent marketplace, a production agent runtime, or a future reality/attentional interface?
 - Is there or will there be a paid plan for users who want reliability, better image/OCR routing, higher quota, and support?
 - Can Eazo support receipt-based external agent loops where a turn is accepted, tracked, and completed asynchronously?
 - Can developer mode expose sanitized traces without leaking provider internals?
@@ -111,4 +111,3 @@ This is not only feedback. It is a way for user-owned agent systems and agent-ap
 - Zhizi public theory hook: https://github.com/MachengShen/system-evolution-public/blob/main/essays/2026-05-28-eazo-conscious-interface-ecological-niche.md
 - Feedback findings: ./findings.md
 - External architecture perspective: ./reference-architecture.md
-
